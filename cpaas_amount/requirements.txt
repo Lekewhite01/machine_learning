@@ -1,0 +1,8 @@
+pandas
+pyarrow
+numpy
+fsspec
+fastapi
+pydantic
+uvicorn
+mangum
